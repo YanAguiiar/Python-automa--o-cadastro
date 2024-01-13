@@ -1,0 +1,3 @@
+Automação de Cadastro de Produtos para Freelancers
+
+Desenvolvido com base na instrução do DEV APRENDER, este projeto se destina a freelancers que realizam automação de cadastro de produtos. Utilizando uma planilha de dados como referência, a aplicação simplifica o processo de cadastramento de produtos em diferentes plataformas. Esta solução visa otimizar a eficiência e a praticidade para profissionais que atuam nesse contexto específico.
